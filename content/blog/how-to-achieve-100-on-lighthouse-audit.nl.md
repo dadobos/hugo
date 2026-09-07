@@ -1,0 +1,9 @@
++++
+title = "Hoe 100% behalen op Lighthouse Audit"
+description = "Tips voor het optimaliseren van prestaties, toegankelijkheid en SEO."
+date = 2025-01-02
++++
+
+Het behalen van een perfecte score van 100% op een Lighthouse-audit is een belangrijke prestatie die de uitmuntendheid van een website weerspiegelt op het gebied van prestaties, toegankelijkheid, best practices, SEO en progressive web app (PWA) standaarden. Lighthouse is een open-source tool ontwikkeld door Google die ontwikkelaars helpt de kwaliteit van hun webpagina's te verbeteren door audits en aanbevelingen te geven op deze belangrijke gebieden.
+
+Het geheim om een perfecte score van 100% te behalen op een Lighthouse-audit ligt in nauwgezette aandacht voor detail en het naleven van best practices in alle geëvalueerde categorieën. Door de prestaties te optimaliseren met technieken zoals lazy loading, het minimaliseren van render-blockerende bronnen en het benutten van browsercaching, kun je de laadtijden aanzienlijk verbeteren. Toegankelijkheid waarborgen betekent het implementeren van semantische HTML, alternatieve tekst voor afbeeldingen bieden en zorgen voor toetsenbordnavigatie. Best practices volgen omvat het gebruik van HTTPS, het vermijden van verouderde API's en het zorgen voor een responsief ontwerp. Voor SEO is het optimaliseren van metatags, het gebruiken van beschrijvende URL's en het waarborgen van mobielvriendelijkheid cruciaal. Tot slot kan het naleven van PWA-standaarden door service workers in te schakelen en een webapp-manifest te bieden de score verder verhogen. Voortdurend testen en itereren op basis van Lighthouse-feedback is essentieel om de score in de loop van de tijd te behouden en te verbeteren.

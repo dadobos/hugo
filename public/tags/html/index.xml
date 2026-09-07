@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>HTML on DA Dobos</title>
+		<link>https://www.dadobos.nl/tags/html/</link>
+		<description>Recent content in HTML on DA Dobos</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.dadobos.nl/tags/html/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Square Project</title>
+				<link>https://www.dadobos.nl/projects/the-square-project/</link>
+				<pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/the-square-project/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,11 @@
+<article
+  class="{{ if not .Site.Params.homepage.showRecent }}
+    h-full 
+  {{ end }} flex w-full flex-col items-end justify-end"
+>
+  {{ partial "profile.html" }}
+  <section class="prose dark:prose-invert">{{ .Content | emojify }}</section>
+</article>
+<!-- <section>
+  {{ partial "recent-articles.html" . }}
+</section> -->

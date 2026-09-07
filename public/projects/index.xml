@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>DA Dobos</title>
+		<link>https://www.dadobos.nl/projects/</link>
+		<description>Recent content on DA Dobos</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.dadobos.nl/projects/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Vanilla JS/TS Carousel</title>
+				<link>https://www.dadobos.nl/projects/vanilla-js-ts-carousel/</link>
+				<pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/vanilla-js-ts-carousel/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Responsive Table</title>
+				<link>https://www.dadobos.nl/projects/responsive-table/</link>
+				<pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/responsive-table/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Rounded Paragraph</title>
+				<link>https://www.dadobos.nl/projects/rounded-paragraph/</link>
+				<pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/rounded-paragraph/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Radio Hide Components</title>
+				<link>https://www.dadobos.nl/projects/radio-hide-components/</link>
+				<pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/radio-hide-components/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Anchor Tag Hide Components</title>
+				<link>https://www.dadobos.nl/projects/anchor-tag-hide-components/</link>
+				<pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/anchor-tag-hide-components/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Billing System</title>
+				<link>https://www.dadobos.nl/projects/billing-system/</link>
+				<pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/billing-system/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Restaurant Billing System</title>
+				<link>https://www.dadobos.nl/projects/restaurant-billing-system/</link>
+				<pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/restaurant-billing-system/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pokemon GO Templates</title>
+				<link>https://www.dadobos.nl/projects/pokemon-go-templates/</link>
+				<pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/pokemon-go-templates/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>World Countries</title>
+				<link>https://www.dadobos.nl/projects/world-countries/</link>
+				<pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/world-countries/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Square Project</title>
+				<link>https://www.dadobos.nl/projects/the-square-project/</link>
+				<pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/the-square-project/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Quiz App</title>
+				<link>https://www.dadobos.nl/projects/quiz-app/</link>
+				<pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/quiz-app/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Shop</title>
+				<link>https://www.dadobos.nl/projects/shop/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/shop/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

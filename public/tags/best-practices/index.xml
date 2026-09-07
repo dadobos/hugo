@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Best Practices on DA Dobos</title>
+		<link>https://www.dadobos.nl/tags/best-practices/</link>
+		<description>Recent content in Best Practices on DA Dobos</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.dadobos.nl/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Vanilla JS/TS Carousel</title>
+				<link>https://www.dadobos.nl/projects/vanilla-js-ts-carousel/</link>
+				<pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/vanilla-js-ts-carousel/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Responsive Table</title>
+				<link>https://www.dadobos.nl/projects/responsive-table/</link>
+				<pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/responsive-table/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Rounded Paragraph</title>
+				<link>https://www.dadobos.nl/projects/rounded-paragraph/</link>
+				<pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/rounded-paragraph/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Radio Hide Components</title>
+				<link>https://www.dadobos.nl/projects/radio-hide-components/</link>
+				<pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/radio-hide-components/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Anchor Tag Hide Components</title>
+				<link>https://www.dadobos.nl/projects/anchor-tag-hide-components/</link>
+				<pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.dadobos.nl/projects/anchor-tag-hide-components/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

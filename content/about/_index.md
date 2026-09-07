@@ -1,0 +1,9 @@
+In late 2018, I relocated to the Netherlands with the intention of transitioning my career. I embarked on a programming journey and achieved the Oracle Certified Associate, Java SE 8 Programmer certification in July 2019. Alongside Java, I developed proficiency in HTML, CSS, JavaScript and React.
+
+In December 2019, I joined SkillTransfers, a Dutch startup seeking a Front-end Engineer. My responsibilities included maintaining the codebase and developing new React functionality using Redux for state management and GraphQL. I replaced the limited CSS MDBootstrap framework with Material UI, learning to override default library styles and mastering JSX. Additionally, I explored AWS technologies such as Amplify, Cognito and DynamoDB.
+
+In February 2021, I joined [ProWarehouse](https://www.prowarehouse.nl/en/), an Apple Authorised B2B Reseller, as a DevOps Team member. We refactored the platform from client-side rendering (Vue.js) to server-side rendering (Golang and Go Template), prioritising clean code and design patterns. With configurable files (Viper), we created multiple platform versions (shops) and implemented our own SCSS framework based on Bulma.
+
+Over the past years, the platform has evolved into a more dynamic and robust solution capable of meeting multiple business requirements. We have researched and implemented newer paradigms and libraries, such as Gomponents, to enhance the platform’s security, speed and lightweight performance. The final result is accessible directly in the browser. As a team, we achieved 100% on Lighthouse Reporting, a significant accomplishment.
+
+Beyond technical skills, I bring a collaborative mindset and a commitment to continuous improvement. As a Software Developer and Scrum Master, I have learned to align technical decisions with business objectives, facilitate effective communication and drive projects to success.

@@ -1,0 +1,29 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Here is the place to include custom CSS. */
+/* Custom Fonts */
+body{
+  /* font-family: "Yeon Sung", system-ui;
+  font-weight: 400;
+  font-style: normal; */
+
+}
+
+.chilanka {
+  font-family: "Chilanka", cursive;
+  font-weight: 400;
+  letter-spacing: 1rem;
+  font-style: normal;
+}
+
+.text-5xl {
+  font-size: 3rem;
+  line-height: 5rem;
+}
+
+.text-6xl {
+  font-size: 5rem;
+  line-height: 7rem;
+}
