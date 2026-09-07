@@ -14,10 +14,10 @@ Clone the repository and start the local development server:
 ```bash
 git clone https://github.com/dadobos/hugo.git
 cd hugo
-hugo server
+hugo server --port=8765
 ```
 
-Open the local URL printed in the terminal, usually:
+Open the local URL printed in the terminal at custom port 8765:
 
 ```text
 http://localhost:8765/

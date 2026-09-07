@@ -10,13 +10,13 @@ title = "DA Dobos"
 dateFormat = "2 January 2006"
 
 # mainSections = ["section1", "section2"]
-description = "My awesome website"
+description = "My simple website built with Hugo and Congo theme."
 
 [params.author]
 name = "DA Dobos"
 image = "img/me.png"
 headline = "Simple, better."
-bio = "A little bit about you"
+bio = "I am a software engineer and web developer with a passion for creating simple, efficient, and user-friendly applications. I enjoy solving complex problems and continuously learning new technologies to improve my skills."
 links = [
   { email = "mailto:danandreidobos@gmail.com" },
   { codepen = "https://codepen.io/diaid" },
