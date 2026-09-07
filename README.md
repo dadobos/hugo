@@ -12,7 +12,7 @@ A personal Hugo project.
 Clone the repository and start the local development server:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/dadobos/hugo.git
 cd hugo
 hugo server
 ```
@@ -20,14 +20,14 @@ hugo server
 Open the local URL printed in the terminal, usually:
 
 ```text
-http://localhost:1313/
+http://localhost:8765/
 ```
 
 ## Common Commands
 
 ```bash
 # Start development server
-hugo server
+hugo server --port=8765
 
 # Include draft content
 hugo server -D
