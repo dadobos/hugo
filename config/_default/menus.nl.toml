@@ -11,17 +11,17 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Blog"
+name = "Bloggen"
 pageRef = "blog"
 weight = 10
 
 [[main]]
-name = "Projects"
+name = "Projecten"
 pageRef = "projects"
 weight = 20
 
 [[main]]
-name = "About"
+name = "Over"
 pageRef = "about"
 weight = 30
 # [[main]]
